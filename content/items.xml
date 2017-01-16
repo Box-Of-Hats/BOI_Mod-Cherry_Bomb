@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <active description="Who ate that?" gfx="CherryBomb.png" maxcharges="2" name="Cherry Bomb" />
+</items>
